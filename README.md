@@ -38,9 +38,8 @@ https://csv.ddev.site
 ### Uruchomienie przez wbudowany serwer PHP
 
 ```bash
-cd public
 composer dump-autoload
-php -S localhost:8000
+php -S localhost:8000 -t public/
 ```
 
 Aplikacja będzie dostępna przez
