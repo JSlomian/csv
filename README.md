@@ -1,7 +1,8 @@
 # Opis
 
 Aplikacja PHP czytająca plik csv i generująca dashboard.
-Zastosowano prosty MVC bez DI kontenera, gdzie za model służą DTO.
+Zastosowano prosty MVC bez DI kontenera w celu przejrzystej separacji danych,
+gdzie za model służą DTO tworzone z pliku csv.
 
 ## Wymagania
 
