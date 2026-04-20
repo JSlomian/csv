@@ -1,0 +1,17 @@
+{
+    "name": "jslomian/csv",
+    "description": "Recruitment project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jslomian\\Csv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Słomian",
+            "email": "slomian.jan@gmail.com"
+        }
+    ],
+    "require": {}
+}
